@@ -1,1 +1,2 @@
-# Data-228
+Analyzing San Francisco Fire Department Service Responses
+For our analysis, we have taken into account the data of the San Francisco Fire Department We are planning to use this data to understand and analyze trends and patterns between emergency service demand and the department's response times.The entire data warehousing process will be managed by the AWS Cloud platform, with Tableau serving as the reporting and visualization tool.
